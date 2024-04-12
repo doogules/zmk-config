@@ -32,15 +32,7 @@
 #endif
 
 /* Custom Device-tree */
-&mt {
-    flavor = "tap-preferred";
-    tapping-term-ms = <170>;
-};
 
-&lt {
-    tapping-term-ms = <170>;
-    flavor = "tap-preferred";
-};
 
 
 /* Glove80 system behavior & macros */
